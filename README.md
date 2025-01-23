@@ -13,7 +13,7 @@ Make sure to Generate Your Own API Key
 **Praveenkumar S**
 - **Role:** Front-end Developer & Python Developer
 
-**Sibi Siddharth S**
+**Gustavo Pacheco**
 - **Role:** Front-end Developer & Python Developer
 
 
