@@ -14,7 +14,7 @@ def aiChat(qustion):
         max_tokens=2048,
         n=1,
         stop=None,
-        temperature=0.3
+        temperature=0.35
     )
     return response.choices[0].text.strip()
 
